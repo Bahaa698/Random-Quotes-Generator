@@ -1,2 +1,3 @@
 # Random-Quotes-Generator
-A simple Route academy assignment that generates random quotes using HTML, CSS & Pure JavaScript.
+-In the 8th Route academy assignment we demonstrate a simple web application that generates random quotes.
+- Using HTML, CSS & Pure JavaScript.
