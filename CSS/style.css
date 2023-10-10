@@ -1,0 +1,15 @@
+h1 {
+    font-size: 80px;
+    font-weight: 500;
+}
+
+button {
+    width: 300px;
+    height: 100px;
+    color: white;
+    background-color: blue;
+}
+
+button:hover {
+    background-color: green;
+}
